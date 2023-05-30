@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @dagota12
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML,CSS,JS
-- 💞️ I’m looking to collaborate on JS
 - 📫 How to reach me ...
 
 <!---
