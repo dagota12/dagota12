@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dagim Chernet</h1>
 <h3 align="center">A web developer</h3>
 
-- 👨‍💻 All of my projects are available at portifolio(https://portifolio.dagotabuilds.site/)
+- 👨‍💻 All of my projects are available at [portifolio](https://portifolio.dagotabuilds.site/)
 
 - 📫 How to reach me **chernetdagim@gmail.com**
 
