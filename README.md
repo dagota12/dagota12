@@ -3,10 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [portifolio](https://portifolio.dagotabuilds.site/)
 
-- 📫 How to reach me **chernetdagim@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ie9a5pJnr5qk8vVFpJLhaAr_UfTnJ22S/view?usp=drive_link](https://drive.google.com/file/d/1ie9a5pJnr5qk8vVFpJLhaAr_UfTnJ22S/view?usp=drive_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dagim-chernet-309328269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dagim-chernet-309328269" height="30" width="40" /></a>
