@@ -1,13 +1,4 @@
-# Hi 👋 I'm Dagim Chernet
-
-Full-stack developer building web apps, developer tools, and AI and Automation.
-
-🌐 [Portfolio](https://portifolio.dagotabuilds.site/) • [LinkedIn](https://linkedin.com/in/dagim-chernet-309328269) • [LeetCode](https://www.leetcode.com/daguser)
-
-
-
 ## Tech
-
 Backend: Node.js, Go, Python  
 Frontend: React, Next.js, TypeScript  
 Databases: PostgreSQL, MongoDB  
