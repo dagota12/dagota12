@@ -1,23 +1,10 @@
 # Hi 👋 I'm Dagim Chernet
 
-Full-stack developer building web apps, developer tools, and ML experiments.
+Full-stack developer building web apps, developer tools, and AI and Automation.
 
 🌐 [Portfolio](https://portifolio.dagotabuilds.site/) • [LinkedIn](https://linkedin.com/in/dagim-chernet-309328269) • [LeetCode](https://www.leetcode.com/daguser)
 
----
 
-## Projects
-
-OmniOptimize  
-SEO and website performance analyzer.
-
-Custom Programming Language  
-Built a language with a lexer, parser, interpreter, and transpiler.
-
-Audio Classifier  
-CNN trained on 2000 audio files using PyTorch.
-
----
 
 ## Tech
 
